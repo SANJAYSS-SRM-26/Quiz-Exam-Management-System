@@ -1,6 +1,3 @@
-Here's a suggested README for the **Quiz Exam Management System** project:
-
----
 
 # Quiz Exam Management System
 
@@ -37,7 +34,3 @@ Feel free to fork this repository, create issues, or submit pull requests to enh
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-
---- 
-
-Let me know if you'd like any further adjustments!
